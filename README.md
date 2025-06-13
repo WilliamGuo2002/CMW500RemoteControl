@@ -58,6 +58,12 @@ CMW500RemoteControl/
 
 
 ---
+## License
+---
+
+This project is released under the MIT License.
+
+---
 
 
 # Rohde & Schwarz CMW500 仪表远程控制GUI程序
@@ -115,3 +121,9 @@ CMW500RemoteControl/
 - 请确保运行环境中已经安装并配置好 NI-VISA 驱动；
 - 截图命令在部分旧型号或固件版本的 CMW500 中可能不受支持；
 - 本程序为测试与实验用途开发，请勿用于正式认证流程。
+
+---
+## 许可协议
+---
+
+本项目采用 MIT 协议开源。
