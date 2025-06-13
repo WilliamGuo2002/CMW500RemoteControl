@@ -62,6 +62,7 @@ CMW500RemoteControl/
 ---
 
 This project is released under the MIT License.
+[MIT License](LICENSE)
 
 ---
 
@@ -127,3 +128,4 @@ CMW500RemoteControl/
 ---
 
 本项目采用 MIT 协议开源。
+[MIT License](LICENSE)
