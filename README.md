@@ -60,7 +60,7 @@ CMW500RemoteControl/
 ---
 
 
-# 🈶 Rohde & Schwarz CMW500远程控制图形界面程序
+# Rohde & Schwarz CMW500 仪表远程控制GUI程序
 
 ## 简介
 
